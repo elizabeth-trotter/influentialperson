@@ -14,7 +14,7 @@ Key Requirements:
 
 
 ## Peer Review
-**Name:** first last Date/ Time: 1/19/24 1:43 pm
+**Name:** Zachary Dressel Date/ Time: 1/19/24 1:43 pm
 
 **Comment(s):** 
 Current Page doesnt change nav color to blue but thats fine, not really an issue. Other than that it looks great!

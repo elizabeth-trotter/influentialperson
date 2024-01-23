@@ -2,40 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-    scroll-behavior: smooth;
-}
 
-.backgroundImg {
-    background-image: url(../assets/background.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.lastSupper {
-    background-image: url(../assets/lastsupper.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100%;
-}
-
-.perspective {
-    background-image: url(../assets/Perspective-Study-for-The-Magi.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100%;
-}
+/* Media Queries */
 
 .videoContainer {
     height: 100vh;
-}
-
-iframe {
-    width: 100%;
-    height: 100%;
 }
 
 @media screen and (max-width: 1400px) {

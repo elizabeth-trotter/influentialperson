@@ -882,6 +882,14 @@ html {
   height: 100%;
 }
 
+.perspective {
+  background-image: url(../assets/Perspective-Study-for-The-Magi.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
 .videoContainer {
   height: 100vh;
 }

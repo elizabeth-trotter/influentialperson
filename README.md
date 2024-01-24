@@ -3,13 +3,7 @@
 
 **Name:** Elizabeth Trotter
 
-**Project Scope:** Created a multipage website using `Vanilla JavaScript` and `Tailwind CSS`. This was my first project utilizing this `utility-first CSS framework`.
-
-***Key Requirements:***
-- *Responsive*
-- *Multiple pages (at least 4)*
-- *1 page must be why it's influential*
-- *Well designed*
+**Project Scope:** Created a responsive multipage website using `Vanilla JavaScript` and `Tailwind CSS`. This was my first project utilizing this `utility-first CSS framework`.
 
 
 ## Website Preview

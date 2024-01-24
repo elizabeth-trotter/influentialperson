@@ -3,14 +3,13 @@
 
 **Name:** Elizabeth Trotter
 
-**Project Description:** Created a multipage site using Vanilla JS and Tailwind. 
+**Project Scope:** Created a multipage website using `Vanilla JavaScript` and `Tailwind CSS`. This was my first project utilizing this `utility-first CSS framework`.
 
-Key Requirements:
-
-- Responsive
-- Multiple pages (at least 4)
-- 1 page must be why it's influential to you
-- Well designed 
+***Key Requirements:***
+- *Responsive*
+- *Multiple pages (at least 4)*
+- *1 page must be why it's influential*
+- *Well designed*
 
 
 ## Peer Review
